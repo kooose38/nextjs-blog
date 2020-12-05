@@ -1,5 +1,5 @@
 ---
-title: 'iPhoneXR'
+title: 'iPhoneXS max'
 date: '2020-01-09'
 ---
 
